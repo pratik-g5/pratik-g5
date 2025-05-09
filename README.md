@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Pratik Gumthanavar 👋</h1>
-<h3 align="center">Building Scalable Web Apps with React & other frontend technologies 🚀</h3>
+<h3 align="center">Building Scalable Web Apps with Nodejs, Reactjs & other Web technologies 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Development**
-- 🚀 I’m working on Crave Cart ([GitHub Repo](https://github.com/pratik-g5/crave-cart))
-- 💬 Ask me about **React, JavaScript, AWS, Python, and APIs**
+- 🚀 I’m working on Dev Tinder ([GitHub Repo](https://github.com/pratik-g5/devTinder))
+- 💬 Ask me about **React, Node, MongoDB, JavaScript, AWS, Python, and APIs**
 - 📫 How to reach me: **pgumthanavar05@gmail.com**
 - 📄 Check out my Resume([Resume Link](https://drive.google.com/file/d/1jJlYiSLGQVYyXhcpSOIJ59Y7ajUbm4zY/view?usp=drive_link))
 
