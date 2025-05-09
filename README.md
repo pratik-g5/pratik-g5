@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full-Stack Development**
 - 🚀 I’m working on Dev Tinder ([GitHub Repo](https://github.com/pratik-g5/devTinder))
 - 💬 Ask me about **React, Node, MongoDB, JavaScript, AWS, Python, and APIs**
-- 📫 How to reach me: **pgumthanavar05@gmail.com**
+- 📫 How to reach me: **pgumthanavar05@gmail.com** , **8152950952**
 - 📄 Check out my Resume([Resume Link](https://drive.google.com/file/d/1jJlYiSLGQVYyXhcpSOIJ59Y7ajUbm4zY/view?usp=drive_link))
 
 ---
